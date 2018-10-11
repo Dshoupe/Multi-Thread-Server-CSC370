@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CEB6898-F877-46ED-AE50-A6994F938F29}</ProjectGuid>
+    <ProjectGuid>{DB3BE5CD-2663-40F4-9391-FC0F1B204C8A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MultiThreadServer</RootNamespace>
-    <AssemblyName>MultiThreadServer</AssemblyName>
+    <RootNamespace>MultiThreadedServer</RootNamespace>
+    <AssemblyName>MultiThreadedServer</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

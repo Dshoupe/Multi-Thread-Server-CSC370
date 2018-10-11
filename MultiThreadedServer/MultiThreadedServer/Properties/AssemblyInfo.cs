@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MultiThreadServer")]
+[assembly: AssemblyTitle("MultiThreadedServer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MultiThreadServer")]
+[assembly: AssemblyProduct("MultiThreadedServer")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1ceb6898-f877-46ed-ae50-a6994f938f29")]
+[assembly: Guid("db3be5cd-2663-40f4-9391-fc0f1b204c8a")]
 
 // Version information for an assembly consists of the following four values:
 //
